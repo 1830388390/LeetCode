@@ -3,47 +3,33 @@ package A11v20.A014LongestCommonPrefix;
 //["flower","flow","flight"]
 class Solution {
     public String longestCommonPrefix(String[] strs) {
-        if (strs.length == 0) {
+        if (strs == null || strs.length == 0) {
             return "";
-        } else if (strs.length == 1) {
-            return strs[0];
         }
-
-        int min = strs[0].length();
-        String minStr = "";
+        int minLen = Integer.MAX_VALUE;
         for (String str : strs) {
-            if (str.length() <= min) {
-                min = str.length();
-                minStr = str;
+            minLen = Math.min(minLen, str.length());
+        }
+        int low = 1;
+        int high = minLen;
+        while (low <= high) {
+            int middle = (low + high) / 2;
+            if (isCommonPrefix(strs, middle)) {
+                low = middle + 1;
+            } else {
+                high = middle - 1;
             }
         }
+        return strs[0].substring(0, (low + high) / 2);
+    }
 
-        for (int size = min; size >= 1; size--) {
-            for (int j = 0; j + size-1 <= min - 1; j++) {
-                String sub = minStr.substring(j, j + size);
-                boolean isFind = true;
-                for (String s : strs) {
-                    if (s.indexOf(String.valueOf(sub)) != 0) {
-                        isFind = false;
-                    }
-                }
-                if (isFind) {
-                    return sub;
-                }
+    private boolean isCommonPrefix(String[] strs, int len){
+        String str1 = strs[0].substring(0,len);
+        for (int i = 1; i < strs.length; i++) {
+            if (!strs[i].startsWith(str1)) {
+                return false;
             }
         }
-
-        boolean isFind = true;
-        for (char s : minStr.toCharArray()) {
-            for (String str : strs) {
-                if (str.indexOf(String.valueOf(s)) != 0) {
-                    isFind = false;
-                }
-            }
-            if (isFind) {
-                return String.valueOf(s);
-            }
-        }
-        return "";
+        return true;
     }
 }
