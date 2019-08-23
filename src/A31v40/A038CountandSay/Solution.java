@@ -1,4 +1,4 @@
-package A038CountandSay;
+package A31v40.A038CountandSay;
 
 class Solution {
     public String countAndSay(int n) {

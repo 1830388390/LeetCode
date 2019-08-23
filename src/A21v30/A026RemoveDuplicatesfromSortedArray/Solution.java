@@ -1,24 +1,24 @@
 package A21v30.A026RemoveDuplicatesfromSortedArray;
 
-import java.util.HashMap;
-import java.util.Map;
-
 class Solution {
-    static int i = 0;
-
     public int removeDuplicates(int[] nums) {
-        Map<Integer,Integer> map = new HashMap<>();
-        for (int i= 0;i<nums.length;i++){
-            map.put(nums[i],0);
+        int i = 1;
+        int j = 1;
+        if (nums.length == 0 ){
+            return 0;
         }
-
-
-        for (int a : map.keySet()){
-            if (i>nums.length){break;}
-            nums[i]=a;
-            i++;
+        if (nums.length == 1){
+            return 1;
         }
-
-        return map.size();
+        while (j<nums.length){
+            if (nums[i - 1] == nums[j]){
+                j++;
+            }else {
+                nums[i] = nums[j];
+                i++;
+                j++;
+            }
+        }
+        return i;
     }
 }

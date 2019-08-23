@@ -1,17 +1,21 @@
 package A21v30.A027RemoveElement;
+
 class Solution {
-    static int i = 0;
     public int removeElement(int[] nums, int val) {
-        for (int j=0;j<nums.length;j++){
-            if (nums[j]!=val){
-                int b =nums[j];
-                nums[i] =b;
-                j++;
-                if (i<nums.length){i++;};
-            }else {
-                j++;
+        if (nums.length == 0){
+            return 0;
+        }
+        if (nums.length == 1){
+
+            return 1;
+        }
+        int i = 0;
+        for (int j = 0;j<nums.length;j++){
+            if (nums[j] != val){
+                nums[i] = nums[j];
+                i++;
             }
-        }System.out.println();
-        return i+1;
+        }
+        return i;
     }
 }

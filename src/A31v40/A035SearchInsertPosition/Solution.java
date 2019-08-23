@@ -1,4 +1,4 @@
-package A035SearchInsertPosition;
+package A31v40.A035SearchInsertPosition;
 
 
 class Solution {
