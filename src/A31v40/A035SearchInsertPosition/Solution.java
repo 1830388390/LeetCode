@@ -3,51 +3,32 @@ package A31v40.A035SearchInsertPosition;
 
 class Solution {
     public int searchInsert(int[] nums, int target) {
-
-        if (nums == null || nums.length == 0) {
-            return 0;
+        int l = nums.length;
+        if (nums.length == 0){
+            return -1;
         }
+        return search(nums,target,0,l - 1);
+    }
 
-        int start = 0;
-        int end = nums.length-1;
-        int mid = (start + end) / 2;
-
-        while (start <= end) {
-
-            if (nums[mid] > target) {
-
-                end = mid - 1;
-                mid = (start + end) / 2;
-            } else if (nums[mid] < target) {
-
-                start = mid + 1;
-                mid = (start + end) / 2;
-            } else {
-                return mid;
-            }
-
-        }
-
-        start = mid - 1 >= 0 ? mid - 1 : 0;
-        end = mid +1  <= nums.length - 1 ? mid + 1 : nums.length - 1;
-
-        if (nums[0] > target) {
-            return 0;
-        }
-
-        if (target > nums[nums.length - 1]) {
-            return nums.length;
-        }
-
-        for (int i = start; i <= end; i++) {
-
-            if (i - 1 < 0) {
-                continue;
-            } else if (nums[i - 1] < target && target < nums[i]) {
-                return i;
+    public int search(int[] nums,int target , int start,int end){
+        if (start == end){
+            if (target > nums[start]){
+                return start+1;
+            }else {
+                return start ;
             }
         }
+        int mid = (start + end)/2;
+        if (nums[mid]> target){
+            return search(nums, target, start, mid);
+        }else if (nums[mid] < target){
+            return search(nums, target, mid + 1, end);
+        }else {
+            return mid == 0 ? 0 : mid - 1;
+        }
+    }
 
-        return -1;
+    public static void main(String[] args) {
+        new Solution().searchInsert(new int[]{1,3,5,6},2);
     }
 }
