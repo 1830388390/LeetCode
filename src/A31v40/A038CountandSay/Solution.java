@@ -2,31 +2,28 @@ package A31v40.A038CountandSay;
 
 class Solution {
     public String countAndSay(int n) {
-        return digui(n-1,"1");
-    }
-
-    public String digui(int n,String value){
-        if (n == 0) {
-            return value;
+        String begin = "1";
+        while (n>1){
+            begin = getNextNum(begin);
+            n--;
         }
-        StringBuilder sb = new StringBuilder();
-        int count = 1;
-        if (value.length() ==1 ){
-            sb.append(count).append((value.charAt(0)));
-        }else{
-            for (int i = 0; i < value.length(); i++) {
-                if (i+1 == value.length()){
-                    sb.append(count).append(value.charAt(i));
-                }else {
-                    if(value.charAt(i) == value.charAt(i+1)){
-                        count++;
-                    }else {
-                        sb.append(count).append(value.charAt(i));
-                        count = 1;
-                    }
-                }
+        return String.valueOf(begin);
+    }
+    String getNextNum(String num){
+        String str = String.valueOf(num);
+        char begin = str.charAt(0);
+        int times = 0;
+        String res = "";
+        for (int i =0;i<=str.length() - 1;i++){
+            if (str.charAt(i) == begin){
+                times ++;
+            }else {
+                res = res + times + begin ;
+                times = 1;
+                begin = str.charAt(i);
             }
         }
-        return digui(--n,sb.toString());
+        res = res + times + begin ;
+        return res;
     }
 }
