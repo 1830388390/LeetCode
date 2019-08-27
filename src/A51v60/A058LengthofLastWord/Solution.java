@@ -1,4 +1,4 @@
-package A058LengthofLastWord;
+package A51v60.A058LengthofLastWord;
 
 class Solution {
     public int lengthOfLastWord(String s) {

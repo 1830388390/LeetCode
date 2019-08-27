@@ -1,4 +1,4 @@
-package A053MaximumSubarray;
+package A51v60.A053MaximumSubarray;
 
 class Solution {
     public int maxSubArray(int[] nums) {

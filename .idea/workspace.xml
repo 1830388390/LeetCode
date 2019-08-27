@@ -2,16 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="480bb5e3-f810-4c4d-ac7e-4634decbff78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/A31v40/A037SudokuSolver/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A31v40/A039CombinationSum/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A31v40/A040CombinationSumII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A41v50/A041FirstMissingPositive/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A41v50/A042TrappingRainWater/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A41v50/A043MultiplyStrings/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A41v50/A044WildcardMatching/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A41v50/A045JumpGameII/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A41v50/A046Permutations/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A41v50/A047PermutationsII/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A41v50/A048RotateImage/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A41v50/A049GroupAnagrams/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A41v50/A050Pow/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A51v60/A051NQueens/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A51v60/A052NQueens/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A51v60/A054SpiralMatrix/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A31v40/A035SearchInsertPosition/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/A31v40/A035SearchInsertPosition/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A31v40/A038CountandSay/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/A31v40/A038CountandSay/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A31v40/A038CountandSay/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A31v40/A038CountandSay/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A053MaximumSubarray/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A058LengthofLastWord/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A41v50/A043MultiplyStrings/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/A41v50/A043MultiplyStrings/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A053MaximumSubarray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A51v60/A053MaximumSubarray/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A058LengthofLastWord/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A51v60/A058LengthofLastWord/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,10 +29,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A31v40/A036ValidSudoku/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/A41v50/A047PermutationsII/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,28 +41,55 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A31v40/A037SudokuSolver/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/A41v50/A048RotateImage/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="727">
-              <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+            <state relative-caret-position="95">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A31v40/A038CountandSay/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/A41v50/A049GroupAnagrams/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#726#734#0" expanded="true" />
+                <element signature="e#1636#1644#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/A41v50/A050Pow/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/A51v60/A052NQueens/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="28" selection-end-column="1" />
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <folding>
+                <element signature="e#1605#1606#0" expanded="true" />
+                <element signature="e#1634#1635#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A31v40/A039CombinationSum/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/A51v60/A051NQueens/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="76">
+              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,73 +98,44 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A31v40/A040CombinationSumII/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/A51v60/A053MaximumSubarray/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A41v50/A041FirstMissingPositive/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-              <folding>
-                <element signature="e#1096#1097#0" expanded="true" />
-                <element signature="e#1125#1126#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A41v50/A042TrappingRainWater/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-              <folding>
-                <element signature="e#903#904#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/A41v50/A043MultiplyStrings/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/A51v60/A054SpiralMatrix/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="52" />
+            <state relative-caret-position="95">
+              <caret line="5" selection-start-line="5" selection-end-line="32" selection-end-column="1" />
               <folding>
-                <element signature="e#1413#1414#0" expanded="true" />
-                <element signature="e#1469#1470#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Object.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/AbstractStringBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="301">
-              <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
-              <folding>
-                <element signature="e#10065#10066#0" expanded="true" />
-                <element signature="e#10148#10149#0" expanded="true" />
-              </folding>
+              <caret line="532" column="33" selection-start-line="532" selection-start-column="33" selection-end-line="532" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/UnsupportedOperationException.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+            <state relative-caret-position="293">
+              <caret line="954" column="25" selection-start-line="954" selection-start-column="25" selection-end-line="954" selection-end-column="25" />
+              <folding>
+                <element signature="e#19296#19297#0" expanded="true" />
+                <element signature="e#19379#19380#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -153,16 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/A067AddBinary/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A067AddBinary/Solutions.java" />
-        <option value="$PROJECT_DIR$/src/A069Sqrtx/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A070ClimbingStairs/A070ClimbingStairs.java" />
-        <option value="$PROJECT_DIR$/src/A070ClimbingStairs/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A088MergeSortedArray/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A0100SameTree/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A101SymmetricTree/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A104MaximumDepthofBinaryTree/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A107BinaryTreeLevelOrderTraversalII/Solution.java" />
         <option value="$PROJECT_DIR$/src/A004MedianofTwoSortedArrays/Solution.java" />
         <option value="$PROJECT_DIR$/src/A005LongestPalindromicSubstring/Sulation.java" />
         <option value="$PROJECT_DIR$/src/A257BinaryTreePaths/Solution.java" />
@@ -204,14 +198,24 @@
         <option value="$PROJECT_DIR$/src/A41v50/A041FirstMissingPositive/Solution.java" />
         <option value="$PROJECT_DIR$/src/A41v50/A042TrappingRainWater/Solution.java" />
         <option value="$PROJECT_DIR$/src/A41v50/A043MultiplyStrings/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A41v50/A044WildcardMatching/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A41v50/A045JumpGameII/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A41v50/A046Permutations/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A41v50/A047PermutationsII/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A41v50/A04848RotateImage/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A41v50/A048RotateImage/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A41v50/A049GroupAnagrams/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A41v50/A050Pow/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A51v60/A051NQueens/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A51v60/A054SpiralMatrix/Solution.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-6" />
-    <option name="y" value="1" />
-    <option name="width" value="1546" />
-    <option name="height" value="839" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="635" />
+    <option name="y" value="120" />
+    <option name="width" value="780" />
+    <option name="height" value="840" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -241,7 +245,14 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="A41v50" type="462c0819:PsiDirectoryNode" />
+              <item name="A51v60" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="A51v60" type="462c0819:PsiDirectoryNode" />
+              <item name="A053MaximumSubarray" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -252,7 +263,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566744493429" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566918162897" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -265,11 +276,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="A51v60.A051NQueens" />
+      <recent name="A41v50.A04848RotateImage" />
+      <recent name="A41v50.A044WildcardMatching" />
       <recent name="A41v50.A042TrappingRainWater" />
       <recent name="A31v40.A035FindFirstandLastPositionofElementinSortedArray" />
-      <recent name="A31v40.A033SearchinRotatedSortedArray" />
-      <recent name="A31v40.A032LongestValidParentheses" />
-      <recent name="A21v30.A030SubstringwithConcatenationofAllWords" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\MYDESK\work\LeetCode\src" />
@@ -287,39 +298,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A31v40.A034FindFirstandLastPositionofElementinSortedArray.Solution" />
+      <option name="MAIN_CLASS_NAME" value="A41v50.A046Permutations.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A31v40.A034FindFirstandLastPositionofElementinSortedArray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A41v50.A041FirstMissingPositive.Solution" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="A41v50.A041FirstMissingPositive.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A41v50.A042TrappingRainWater.Solution" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="A41v50.A042TrappingRainWater.*" />
+          <option name="PATTERN" value="A41v50.A046Permutations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,11 +326,11 @@
       </method>
     </configuration>
     <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A31v40.A035SearchInsertPosition.Solution" />
+      <option name="MAIN_CLASS_NAME" value="A41v50.A047PermutationsII.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A31v40.A035SearchInsertPosition.*" />
+          <option name="PATTERN" value="A41v50.A047PermutationsII.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,11 +339,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A1v10.A005LongestPalindromicSubstring.Solution" />
+      <option name="MAIN_CLASS_NAME" value="A41v50.A044WildcardMatching.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A1v10.A005LongestPalindromicSubstring.*" />
+          <option name="PATTERN" value="A41v50.A044WildcardMatching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -367,11 +352,24 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A1v10.A008StringtoInteger.Solution" />
+      <option name="MAIN_CLASS_NAME" value="A41v50.A048RotateImage.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A1v10.A008StringtoInteger.*" />
+          <option name="PATTERN" value="A41v50.A048RotateImage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A51v60.A052NQueens.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A51v60.A052NQueens.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -381,11 +379,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -430,18 +428,18 @@
       <workItem from="1557651178811" duration="408000" />
       <workItem from="1560150351535" duration="1232000" />
       <workItem from="1565945856598" duration="10517000" />
-      <workItem from="1566099744436" duration="99838000" />
+      <workItem from="1566099744436" duration="131525000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="190109000" />
+    <option name="totallyTimeSpent" value="221796000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1748401" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1748401" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -451,7 +449,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3058659" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3969957" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39592275" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -477,113 +475,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/A41v50/A043MultiplyStrings/Solution.java</url>
-          <line>3</line>
-          <properties class="A41v50.A043MultiplyStrings.Solution" method="multiply">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/A1v10/A006ZigZagConversion/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A1v10/A007ReverseInteger/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A1v10/A009PalindromeNumber/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A1v10/A008StringtoInteger/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/regex/Matcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="603" column="17" selection-start-line="603" selection-start-column="17" selection-end-line="603" selection-end-column="17" />
-          <folding>
-            <element signature="e#21591#21592#0" expanded="true" />
-            <element signature="e#21636#21637#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/regex/Pattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="1134" column="21" selection-start-line="1134" selection-start-column="21" selection-end-line="1134" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A1v10/A010RegularExpressionMatching/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="118" column="36" selection-start-line="118" selection-start-column="36" selection-end-line="118" selection-end-column="36" />
-          <folding>
-            <element signature="e#3656#3657#0" expanded="true" />
-            <element signature="e#3680#3681#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A11v20/A11ContainerWithMostWater/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A11v20/A013RomantInteger/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="45" selection-start-line="45" selection-end-line="73" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A11v20/A014LongestCommonPrefix/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="34" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="145" column="13" selection-start-line="145" selection-start-column="13" selection-end-line="145" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -745,17 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="549">
           <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="1055" column="25" selection-start-line="1055" selection-start-column="25" selection-end-line="1055" selection-end-column="25" />
-          <folding>
-            <element signature="e#19296#19297#0" expanded="true" />
-            <element signature="e#19379#19380#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -945,6 +826,123 @@
           <folding>
             <element signature="e#1413#1414#0" expanded="true" />
             <element signature="e#1469#1470#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A41v50/A044WildcardMatching/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A41v50/A045JumpGameII/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A41v50/A046Permutations/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#975#984#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A41v50/A047PermutationsII/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A41v50/A048RotateImage/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="954" column="25" selection-start-line="954" selection-start-column="25" selection-end-line="954" selection-end-column="25" />
+          <folding>
+            <element signature="e#19296#19297#0" expanded="true" />
+            <element signature="e#19379#19380#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A41v50/A049GroupAnagrams/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#726#734#0" expanded="true" />
+            <element signature="e#1636#1644#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A41v50/A050Pow/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="532" column="33" selection-start-line="532" selection-start-column="33" selection-end-line="532" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A51v60/A052NQueens/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#1605#1606#0" expanded="true" />
+            <element signature="e#1634#1635#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A51v60/A051NQueens/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A51v60/A053MaximumSubarray/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A51v60/A054SpiralMatrix/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
