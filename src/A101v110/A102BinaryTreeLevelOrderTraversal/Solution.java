@@ -36,4 +36,5 @@ class Solution {
         makeRes(root.left,level + 1);
         makeRes(root.right,level + 1);
     }
+
 }
