@@ -2,142 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="480bb5e3-f810-4c4d-ac7e-4634decbff78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/A151v160/A151ReverseWordsinaString/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A151v160/A152MaximumProductSubarray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A151v160/A153FindMinimuminRotatedSortedArray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A151v160/A154FindMinimuminRotatedSortedArrayII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A151v160/A155MinStack/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A151v160/A160IntersectionofTwoLinkedLists/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A161v170/A162FindPeakElement/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A161v170/A164MaximumGap/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A161v170/A165CompareVersionNumbers/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A161v170/A167TwoSumIIInputarrayissorted/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A161v170/A168ExcelSheetColumnTitle/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A161v170/A169MajorityElement/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A171v180/A171ExcelSheetColumnNumber/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A171v180/A172FactorialTrailingZeroes/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A171v180/A173BinarySearchTreeIterator/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A171v180/A174DungeonGame/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A171v180/A179LargestNumber/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A181v190/A187RepeatedDNASequences/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A181v190/A188BestTimetoBuyandSellStockIV/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A181v190/A189RotateArray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A181v190/A190ReverseBits/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A191v200/A191Numberof1Bits/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A191v200/A198HouseRobber/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A191v200/A199BinaryTreeRightSideView/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A191v200/A200NumberofIslands/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A201v210/A201BitwiseANDofNumbersRange/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A201v210/A202HappyNumber/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A201v210/A203RemoveLinkedListElements/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A201v210/A204CountPrimes/Soluiton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A201v210/A205IsomorphicStrings/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A201v210/A206ReverseLinkedList/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A201v210/A207CourseSchedule/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A201v210/A208PrefixTree/Trie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A201v210/A209MinimumSizeSubarraySum/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A201v210/A210CourseScheduleII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A211v220/A211AddandSearchWordDatastructuredesign/WordDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A211v220/A212WordSearchII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A211v220/A213HouseRobberII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A211v220/A214ShortestPalindrome/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A211v220/A215KthLargestElementinanArray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A211v220/A216CombinationSumIII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A211v220/A217ContainsDuplicate/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A211v220/A218TheSkylineProblem/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A211v220/A219ContainsDuplicateII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A211v220/A220ContainsDuplicateIII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A221v230/A221MaximalSquare/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A221v230/A222CountCompleteTreeNodes/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A221v230/A223RectangleArea/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A221v230/A224BasicCalculator/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A221v230/A225ImplementStackusingQueues/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A221v230/A226InvertBinaryTree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A221v230/A227BasicCalculatorII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A221v230/A228SummaryRanges/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A221v230/A229MajorityElementII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A221v230/A230KthSmallestElementinaBST/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A231v240/A231PowerofTwo/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A231v240/A232ImplementQueueusingStacks/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A231v240/A257BinaryTreePaths/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/others/MaximumMapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/others/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A231v240/A233NumberofDigitOne/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A231v240/A234PalindromeLinkedList/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A231v240/A235LowestCommonAncestorofaBinarySearchTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A231v240/A236LowestCommonAncestorofaBinaryTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A231v240/A237DeleteNodeinaLinkedList/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A231v240/A238ProductofArrayExceptSelf/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A231v240/A239SlidingWindowMaximum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A231v240/A240Searcha2DMatrixII/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A241v250/A241DifferentWaystoAddParentheses/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A241v250/A242ValidAnagram/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A251v260/A258AddDigits/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A261v270/A263UglyNumber/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A261v270/A264UglyNumberII/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A261v270/A268MissingNumber/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A271v280/A273IntegertoEnglishWords/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A271v280/A278FirstBadVersion/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A281v290/A279PerfectSquares/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A281v290/A282ExpressionAddOperators/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A281v290/A283MoveZeroes/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A281v290/A284PeekingIterator/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A281v290/A289GameofLife/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A281v290/A290WordPattern/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A291v300/A297SerializeandDeserializeBinaryTree/Codec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A291v300/A299BullsandCows/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A291v300/A300LongestIncreasingSubsequence/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A071v80/A071SimplifyPath/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A071v80/A072EditDistance/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A071v80/A073SetMatrixZeroes/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A071v80/A074Searcha2DMatrix/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A071v80/A075SortColors/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A071v80/A076MinimumWindowSubstring/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A071v80/A077Combinations/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A071v80/A078Subsets/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A071v80/A079WordSearch/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A071v80/A080RemoveDuplicatesfromSortedArrayII/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A081v90/A081SearchinRotatedSortedArrayII/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A081v90/A082RemoveDuplicatesfromSortedListII/Solution$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A081v90/A082RemoveDuplicatesfromSortedListII/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A081v90/A083RemoveDuplicatesfromSortedList/Solution$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A081v90/A083RemoveDuplicatesfromSortedList/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A081v90/A084LargestRectangleinHistogram/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A081v90/A085MaximalRectangle/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A081v90/A086PartitionList/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A081v90/A086PartitionList/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A081v90/A088MergeSortedArray/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A081v90/A089GrayCode/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A081v90/A090SubsetsII/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A081v90/A090SubsetsII/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A091v100/A0100SameTree/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A091v100/A0100SameTree/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A091v100/A091DecodeWays/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A091v100/A092ReverseLinkedListII/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A091v100/A092ReverseLinkedListII/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A091v100/A093RestoreIPAddresses/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A091v100/A094BinaryTreeInorderTraversal/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A091v100/A094BinaryTreeInorderTraversal/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A091v100/A095UniqueBinarySearchTreesII/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A091v100/A095UniqueBinarySearchTreesII/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A091v100/A096UniqueBinarySearchTrees/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A091v100/A097InterleavingString/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A091v100/A098ValidateBinarySearchTree/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A091v100/A098ValidateBinarySearchTree/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A091v100/A099RecoverBinarySearchTree/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A091v100/A099RecoverBinarySearchTree/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A131v140/A139WordBreak/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/A131v140/A139WordBreak/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A257BinaryTreePaths/binaryTreePaths$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A257BinaryTreePaths/binaryTreePaths$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A257BinaryTreePaths/binaryTreePaths.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A071v80/A071SimplifyPath/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A71v80/A071SimplifyPath/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A071v80/A072EditDistance/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A71v80/A072EditDistance/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A071v80/A073SetMatrixZeroes/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A71v80/A073SetMatrixZeroes/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A071v80/A074Searcha2DMatrix/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A71v80/A074Searcha2DMatrix/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A071v80/A075SortColors/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A71v80/A075SortColors/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A071v80/A076MinimumWindowSubstring/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A71v80/A076MinimumWindowSubstring/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A071v80/A077Combinations/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A71v80/A077Combinations/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A071v80/A078Subsets/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A71v80/A078Subsets/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A071v80/A079WordSearch/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A71v80/A079WordSearch/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A071v80/A080RemoveDuplicatesfromSortedArrayII/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A71v80/A080RemoveDuplicatesfromSortedArrayII/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A081v90/A081SearchinRotatedSortedArrayII/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A81v90/A081SearchinRotatedSortedArrayII/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A081v90/A082RemoveDuplicatesfromSortedListII/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A81v90/A082RemoveDuplicatesfromSortedListII/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A081v90/A083RemoveDuplicatesfromSortedList/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A81v90/A083RemoveDuplicatesfromSortedList/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A081v90/A084LargestRectangleinHistogram/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A81v90/A084LargestRectangleinHistogram/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A081v90/A085MaximalRectangle/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A81v90/A085MaximalRectangle/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A081v90/A086PartitionList/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A81v90/A086PartitionList/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A081v90/A088MergeSortedArray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A81v90/A088MergeSortedArray/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A081v90/A089GrayCode/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A81v90/A089GrayCode/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A081v90/A090SubsetsII/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A81v90/A090SubsetsII/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A091v100/A0100SameTree/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A91v100/A0100SameTree/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A091v100/A091DecodeWays/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A91v100/A091DecodeWays/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A091v100/A092ReverseLinkedListII/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A91v100/A092ReverseLinkedListII/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A091v100/A093RestoreIPAddresses/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A91v100/A093RestoreIPAddresses/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A091v100/A094BinaryTreeInorderTraversal/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A91v100/A094BinaryTreeInorderTraversal/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A091v100/A095UniqueBinarySearchTreesII/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A91v100/A095UniqueBinarySearchTreesII/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A091v100/A096UniqueBinarySearchTrees/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A91v100/A096UniqueBinarySearchTrees/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A091v100/A097InterleavingString/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A91v100/A097InterleavingString/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A091v100/A098ValidateBinarySearchTree/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A91v100/A098ValidateBinarySearchTree/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A091v100/A099RecoverBinarySearchTree/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A91v100/A099RecoverBinarySearchTree/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A101v110/A102BinaryTreeLevelOrderTraversal/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A101v110/A102BinaryTreeLevelOrderTraversal/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A141v150/A150EvaluateReversePolishNotation/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A141v150/A150EvaluateReversePolishNotation/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A257BinaryTreePaths/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A231v240/A231PowerofTwo/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/A231v240/A231PowerofTwo/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A231v240/A257BinaryTreePaths/Solution$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A231v240/A257BinaryTreePaths/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/A81v90/A085MaximalRectangle/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/A81v90/A085MaximalRectangle/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/others/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/others/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A121v130/A123BestTimetoBuyandSellStockIII/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A121v130/A123BestTimetoBuyandSellStockIII/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A181v190/A188BestTimetoBuyandSellStockIV/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A181v190/A188BestTimetoBuyandSellStockIV/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A231v240/A257BinaryTreePaths/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A251v260/A257BinaryTreePaths/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A81v90/A085MaximalRectangle/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A81v90/A085MaximalRectangle/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/others/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/others/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -149,118 +49,98 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A221v230/A225ImplementStackusingQueues/MyStack.java">
+        <entry file="file://$PROJECT_DIR$/src/A301v310/A304RangeSumQuery2DImmutable/NumMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            <state relative-caret-position="570">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
               <folding>
-                <element signature="e#585#586#0" expanded="true" />
-                <element signature="e#565#566#0" expanded="true" />
-                <element signature="e#597#598#0" expanded="true" />
-                <element signature="e#613#614#0" expanded="true" />
-                <element signature="e#646#647#0" expanded="true" />
+                <element signature="method#sumRegion#0;class#NumMatrix#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A221v230/A226InvertBinaryTree/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-              <folding>
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A221v230/A227BasicCalculatorII/Solution.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A221v230/A228SummaryRanges/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/A301v310/A307RangeSumQueryMutable/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A221v230/A229MajorityElementII/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/A301v310/A310MinimumHeightTrees/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1414#1415#0" expanded="true" />
-                <element signature="e#1487#1488#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1083">
+              <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A221v230/A230KthSmallestElementinaBST/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/A81v90/A085MaximalRectangle/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="9" selection-start-column="2" selection-end-line="72" selection-end-column="3" />
+            <state relative-caret-position="358">
+              <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A231v240/A231PowerofTwo/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/A121v130/A123BestTimetoBuyandSellStockIII/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/A181v190/A188BestTimetoBuyandSellStockIV/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="9" />
-              <folding>
-                <element signature="e#295#296#0" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
-              </folding>
+              <caret line="4" selection-start-line="4" selection-end-line="45" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/A231v240/A232ImplementQueueusingStacks/MyQueue.java">
+        <entry file="file://$PROJECT_DIR$/src/A301v310/A309BestTimetoBuyandSellStockwithCooldown/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+            <state relative-caret-position="399">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Integer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54226">
+              <caret line="2939" column="33" selection-start-line="2939" selection-start-column="33" selection-end-line="2939" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Formatter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45334">
+              <caret line="2453" column="21" selection-start-line="2453" selection-start-column="21" selection-end-line="2453" selection-end-column="21" />
               <folding>
-                <element signature="e#612#613#0" expanded="true" />
-                <element signature="e#645#646#0" expanded="true" />
-                <element signature="e#704#705#0" expanded="true" />
-                <element signature="e#738#739#0" expanded="true" />
-                <element signature="e#815#816#0" expanded="true" />
-                <element signature="e#852#853#0" expanded="true" />
+                <element signature="e#101735#101736#0" expanded="true" />
+                <element signature="e#101781#101782#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/others/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Queue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="143" column="19" selection-start-line="143" selection-start-column="19" selection-end-line="143" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -281,6 +161,7 @@
       <find>POSITIVE_INFINITY</find>
       <find>map</find>
       <find>val</find>
+      <find>update</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -289,50 +170,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/A171v180/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A171v180/A174DungeonGame/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A171v180/A179LargestNumber/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A181v190/A188BestTimetoBuyandSellStockIV/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A181v190/A190ReverseBits/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A191v200/A191Numberof1Bits/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A191v200/A257BinaryTreePaths/a.java" />
-        <option value="$PROJECT_DIR$/src/A101v110/A102BinaryTreeLevelOrderTraversal/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A191v200/A257BinaryTreePaths/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A191v200/A198HouseRobber/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A191v200/A199BinaryTreeRightSideView/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A191v200/A200NumberofIslands/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A201v210/A201BitwiseANDofNumbersRange/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A201v210/A202HappyNumber/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A201v210/A203RemoveLinkedListElements/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A201v210/A204CountPrimes/Soluiton.java" />
-        <option value="$PROJECT_DIR$/src/A201v210/A205IsomorphicStrings/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A201v210/A206ReverseLinkedList/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A201v210/A208PrefixTree/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A201v210/A208PrefixTree/Trie.java" />
-        <option value="$PROJECT_DIR$/src/A201v210/A209MinimumSizeSubarraySum/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A201v210/A207CourseSchedule/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A201v210/A210CourseScheduleII/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A211v220/A211AddandSearchWordDatastructuredesign/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A211v220/A211AddandSearchWordDatastructuredesign/WordDictionary.java" />
-        <option value="$PROJECT_DIR$/src/others/MaximumMapping.java" />
-        <option value="$PROJECT_DIR$/src/A257BinaryTreePaths/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A211v220/A212WordSearchII/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A211v220/A213HouseRobberII/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A211v220/A214ShortestPalindrome/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A211v220/A215KthLargestElementinanArray/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A211v220/A216CombinationSumIII/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A211v220/A217ContainsDuplicate/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A211v220/A218TheSkylineProblem/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A211v220/A219ContainsDuplicateII/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A211v220/A220ContainsDuplicateIII/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A221v230/A221MaximalSquare/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A221v230/A222CountCompleteTreeNodes/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A221v230/A223RectangleArea/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A221v230/A224BasicCalculator/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A221v230/A225ImplementStackusingQueues/Solution.java" />
-        <option value="$PROJECT_DIR$/src/A221v230/A225ImplementStackusingQueues/MyStack.java" />
         <option value="$PROJECT_DIR$/src/A221v230/A226InvertBinaryTree/Solution.java" />
-        <option value="$PROJECT_DIR$/src/others/Solution.java" />
         <option value="$PROJECT_DIR$/src/A221v230/A227BasicCalculatorII/Solution.java" />
         <option value="$PROJECT_DIR$/src/A221v230/A228SummaryRanges/Solution.java" />
         <option value="$PROJECT_DIR$/src/A221v230/A229MajorityElementII/Solution.java" />
@@ -340,12 +178,61 @@
         <option value="$PROJECT_DIR$/src/A221v230/A230KthSmallestElementinaBST/Solution.java" />
         <option value="$PROJECT_DIR$/src/A231v240/A231PowerofTwo/Solution.java" />
         <option value="$PROJECT_DIR$/src/A231v240/A232ImplementQueueusingStacks/MyQueue.java" />
+        <option value="$PROJECT_DIR$/src/A231v240/A233NumberofDigitOne/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A231v240/A234PalindromeLinkedList/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A231v240/A235LowestCommonAncestorofaBinarySearchTree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A231v240/A236LowestCommonAncestorofaBinaryTree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A231v240/A237DeleteNodeinaLinkedList/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A231v240/A238ProductofArrayExceptSelf/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A231v240/A239SlidingWindowMaximum/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A231v240/A240Searcha2DMatrixII/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A241v250/A240Searcha2DMatrixII/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A241v250/A241DifferentWaystoAddParentheses/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A241v250/A242ValidAnagram/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A251v260/A258AddDigits/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A261v270/A263UglyNumber/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A261v270/A264UglyNumberII/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A261v270/A268MissingNumber/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A271v273IntegertoEnglishWords/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A271v280/A271v273IntegertoEnglishWords/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A271v280/A273IntegertoEnglishWords/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A271v280/A278FirstBadVersion/Solution.java" />
+        <option value="$PROJECT_DIR$/src/others/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A271v280/A279PerfectSquares/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A281v290/A282ExpressionAddOperators/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A271v280/A283MoveZeroes/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A271v280/A284PeekingIterator/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A271v280/A289GameofLife/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A271v280/A290WordPattern/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A271v280/A297SerializeandDeserializeBinaryTree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A271v280/A297SerializeandDeserializeBinaryTree/Codec.java" />
+        <option value="$PROJECT_DIR$/src/A271v280/A299BullsandCows/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A271v280/A300LongestIncreasingSubsequence/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A271v280/A303RangeSumQueryImmutable/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A271v280/A304RangeSumQuery2DImmutable/NumMatrix.java" />
+        <option value="$PROJECT_DIR$/src/A271v280/A307RangeSumQueryMutable/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A271v280/A310MinimumHeightTrees/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A81v90/A085MaximalRectangle/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A121v130/A123BestTimetoBuyandSellStockIII/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A181v190/A188BestTimetoBuyandSellStockIV/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A271v280/A309BestTimetoBuyandSellStockwithCooldown/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A281v290/A309BestTimetoBuyandSellStockwithCooldown/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A291v301/A309BestTimetoBuyandSellStockwithCooldown/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A291v310/A309BestTimetoBuyandSellStockwithCooldown/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A291v300/A309BestTimetoBuyandSellStockwithCooldown/Solution.java" />
+        <option value="$PROJECT_DIR$/src/A301v310/A309BestTimetoBuyandSellStockwithCooldown/Solution.java" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1220" />
-    <option name="height" value="1314" />
+    <option name="width" value="780" />
+    <option name="height" value="840" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -357,6 +244,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -373,20 +261,19 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="A231v240" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568644143494" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569247384391" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -395,7 +282,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -424,13 +311,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A211v220.A214ShortestPalindrome.Solution" />
+  <component name="RunManager" selected="Application.Solution (2)">
+    <configuration name="Codec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A281v290.A297SerializeandDeserializeBinaryTree.Codec" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A211v220.A214ShortestPalindrome.*" />
+          <option name="PATTERN" value="A291v300.A297SerializeandDeserializeBinaryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A261v270.A264UglyNumberII.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A261v270.A264UglyNumberII.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -439,11 +339,11 @@
       </method>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A221v230.A229MajorityElementII.Solution" />
+      <option name="MAIN_CLASS_NAME" value="A81v90.A085MaximalRectangle.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A221v230.A229MajorityElementII.*" />
+          <option name="PATTERN" value="A81v90.A085MaximalRectangle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -451,12 +351,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A211v220.A216CombinationSumIII.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="others.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A211v220.A216CombinationSumIII.*" />
+          <option name="PATTERN" value="others.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -464,12 +364,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A231v240.A231PowerofTwo.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A281v290.A289GameofLife.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A231v240.A231PowerofTwo.*" />
+          <option name="PATTERN" value="A281v290.A289GameofLife.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A231v240.A240Searcha2DMatrixII.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A231v240.A240Searcha2DMatrixII.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -529,26 +442,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A211v220.A211AddandSearchWordDatastructuredesign.WordDictionary" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="A211v220.A211AddandSearchWordDatastructuredesign.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Codec" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.WordDictionary" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -605,12 +505,14 @@
       <workItem from="1568025746706" duration="7862000" />
       <workItem from="1568078862097" duration="5733000" />
       <workItem from="1568168135658" duration="17416000" />
-      <workItem from="1568451405368" duration="49144000" />
+      <workItem from="1568451405368" duration="101300000" />
+      <workItem from="1569130500356" duration="4391000" />
+      <workItem from="1569146973679" duration="11585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="462254000" />
+    <option name="totallyTimeSpent" value="530386000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -624,7 +526,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1977612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20415778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -633,14 +535,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32929516" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30396476" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5121145" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.60022026" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5099119" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32939914" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32929516" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32929516" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.34104046" />
       <window_info anchor="bottom" id="Regex Tester" order="11" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -656,7 +558,7 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.3297587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -683,397 +585,22 @@
           <properties />
           <option name="timeStamp" value="44" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/A261v270/A264UglyNumberII/Solution.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/A81v90/A085MaximalRectangle/Solution.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/A181v190/A189RotateArray/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A171v180/A174DungeonGame/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="1154" column="36" selection-start-line="1154" selection-start-column="36" selection-end-line="1154" selection-end-column="36" />
-          <folding>
-            <element signature="e#94598#94599#0" expanded="true" />
-            <element signature="e#94636#94637#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A171v180/A179LargestNumber/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="40" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A181v190/A188BestTimetoBuyandSellStockIV/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A181v190/A190ReverseBits/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A191v200/A191Numberof1Bits/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A191v200/A257BinaryTreePaths/a.java" />
-    <entry file="file://$PROJECT_DIR$/src/A101v110/A102BinaryTreeLevelOrderTraversal/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A191v200/A199BinaryTreeRightSideView/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="30" selection-start-line="30" selection-end-line="32" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A191v200/A200NumberofIslands/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A201v210/A201BitwiseANDofNumbersRange/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A201v210/A202HappyNumber/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="28" selection-end-column="1" />
-          <folding>
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#647#648#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A201v210/A203RemoveLinkedListElements/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" selection-start-line="15" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A201v210/A204CountPrimes/Soluiton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A201v210/A205IsomorphicStrings/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" selection-start-line="6" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#799#800#0" expanded="true" />
-            <element signature="e#873#874#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A201v210/A206ReverseLinkedList/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding>
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A201v210/A209MinimumSizeSubarraySum/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="e#840#841#0" expanded="true" />
-            <element signature="e#869#870#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A201v210/A207CourseSchedule/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/function/ToIntFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A201v210/A210CourseScheduleII/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1131#1132#0" expanded="true" />
-            <element signature="e#1205#1206#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A211v220/A211AddandSearchWordDatastructuredesign/WordDictionary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="980">
-          <caret line="87" column="28" selection-start-line="87" selection-start-column="28" selection-end-line="87" selection-end-column="28" />
-          <folding>
-            <element signature="e#992#993#0" expanded="true" />
-            <element signature="e#1033#1034#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/MaximumMapping.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A231v240/A257BinaryTreePaths/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="24" selection-start-line="24" selection-end-line="40" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A201v210/A208PrefixTree/Trie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="66" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#1698#1699#0" expanded="true" />
-            <element signature="e#1723#1724#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A211v220/A212WordSearchII/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="118" column="9" selection-start-line="118" selection-start-column="9" selection-end-line="118" selection-end-column="9" />
-          <folding>
-            <element signature="class#Solution#0" />
-            <element signature="method#findWords#0;class#Solution#0" />
-            <element signature="method#find#0;class#Solution#0" />
-            <element signature="method#makeRes#0;class#Solution#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A191v200/A198HouseRobber/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A211v220/A213HouseRobberII/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A211v220/A214ShortestPalindrome/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A211v220/A215KthLargestElementinanArray/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="58" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A211v220/A216CombinationSumIII/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#777#778#0" expanded="true" />
-            <element signature="e#806#807#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A211v220/A217ContainsDuplicate/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A211v220/A218TheSkylineProblem/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A211v220/A219ContainsDuplicateII/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A211v220/A220ContainsDuplicateIII/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="39" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A221v230/A221MaximalSquare/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A221v230/A222CountCompleteTreeNodes/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A221v230/A223RectangleArea/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A141v150/A150EvaluateReversePolishNotation/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A221v230/A224BasicCalculator/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="143" column="19" selection-start-line="143" selection-start-column="19" selection-end-line="143" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/A221v230/A225ImplementStackusingQueues/MyStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
@@ -1085,13 +612,6 @@
             <element signature="e#613#614#0" expanded="true" />
             <element signature="e#646#647#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1151,8 +671,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/A231v240/A232ImplementQueueusingStacks/MyQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        <state relative-caret-position="380">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
           <folding>
             <element signature="e#612#613#0" expanded="true" />
             <element signature="e#645#646#0" expanded="true" />
@@ -1161,6 +681,354 @@
             <element signature="e#815#816#0" expanded="true" />
             <element signature="e#852#853#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A231v240/A233NumberofDigitOne/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#108#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A231v240/A234PalindromeLinkedList/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A231v240/A235LowestCommonAncestorofaBinarySearchTree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A231v240/A236LowestCommonAncestorofaBinaryTree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A231v240/A237DeleteNodeinaLinkedList/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A231v240/A238ProductofArrayExceptSelf/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A231v240/A239SlidingWindowMaximum/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/MaximumMapping.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A231v240/A240Searcha2DMatrixII/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A241v250/A241DifferentWaystoAddParentheses/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A241v250/A242ValidAnagram/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A261v270/A263UglyNumber/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A251v260/A258AddDigits/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A261v270/A264UglyNumberII/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A261v270/A268MissingNumber/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A271v280/A273IntegertoEnglishWords/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="131" column="30" lean-forward="true" selection-start-line="131" selection-start-column="30" selection-end-line="131" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A271v280/A278FirstBadVersion/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-start-column="2" selection-end-line="27" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="684" column="19" selection-start-line="684" selection-start-column="19" selection-end-line="684" selection-end-column="19" />
+          <folding>
+            <element signature="e#20484#20485#0" expanded="true" />
+            <element signature="e#20520#20521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="190" column="6" selection-start-line="190" selection-start-column="6" selection-end-line="190" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A281v290/A279PerfectSquares/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="36" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A281v290/A282ExpressionAddOperators/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A281v290/A283MoveZeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A281v290/A284PeekingIterator/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A281v290/A289GameofLife/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A271v280/A304RangeSumQuery2DImmutable/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/A281v290/A290WordPattern/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A291v300/A297SerializeandDeserializeBinaryTree/Codec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1634">
+          <caret line="90" column="9" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A291v300/A299BullsandCows/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" selection-start-line="5" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A291v300/A300LongestIncreasingSubsequence/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A301v310/A303RangeSumQueryImmutable/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1330">
+          <caret line="70" column="19" selection-start-line="70" selection-start-column="19" selection-end-line="70" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A301v310/A304RangeSumQuery2DImmutable/NumMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="method#sumRegion#0;class#NumMatrix#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A301v310/A307RangeSumQueryMutable/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A301v310/A310MinimumHeightTrees/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54226">
+          <caret line="2939" column="33" selection-start-line="2939" selection-start-column="33" selection-end-line="2939" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Formatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45334">
+          <caret line="2453" column="21" selection-start-line="2453" selection-start-column="21" selection-end-line="2453" selection-end-column="21" />
+          <folding>
+            <element signature="e#101735#101736#0" expanded="true" />
+            <element signature="e#101781#101782#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A81v90/A085MaximalRectangle/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A121v130/A123BestTimetoBuyandSellStockIII/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A181v190/A188BestTimetoBuyandSellStockIV/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A301v310/A309BestTimetoBuyandSellStockwithCooldown/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
         </state>
       </provider>
     </entry>
