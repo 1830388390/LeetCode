@@ -32,20 +32,20 @@ public class Solution {
                 TreeNode tmp = levelTraversal.remove();
                 res.append(tmp == null ? "#!" : tmp.val + "!");
                 if (tmp != null) {
-                    res.append(tmp.left);
-                    res.append(tmp.right);
+                    levelTraversal.add(tmp.left);
+                    levelTraversal.add(tmp.right);
                 }
             }
         }
-        while ("#!".equals(res.substring(res.length() - 3))) {
-            res.replace(res.length() - 3, res.length(), "");
+        while ("#!".equals(res.substring(res.length() - 2,res.length()))) {
+            res.replace(res.length() - 2, res.length(), "");
         }
         return res.toString();
     }
 
     TreeNode Deserialize(String str) {
         String[] roots = str.split("!");
-        if (roots.length == 0) {
+        if (roots.length == 0 || "".equals(str)) {
             return null;
         }
         Queue<TreeNode> levelTraversal = new LinkedList<>();
@@ -82,7 +82,4 @@ public class Solution {
         return root;
     }
 
-    public static void main(String[] args) {
-        new Solution().Deserialize("1!2!3!#!4!");
-    }
 }
